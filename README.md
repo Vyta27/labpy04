@@ -29,3 +29,8 @@
 - Gabungkan List :
   
   -Gabungkan list_B dengan list_A: list_C menjadi [1, 3, 6, 100, 100, 1, 3, '10', 20, 30, 40].
+
+# TUGAS PRAKTIKUM
+![Screenshot (42)](https://github.com/user-attachments/assets/f3b055f9-c237-4daf-8f58-646a503eaa38)
+![Screenshot (41)](https://github.com/user-attachments/assets/2261d64e-1a0d-4bfc-8c33-15ce412aae0d)
+![Screenshot (43)](https://github.com/user-attachments/assets/f73f22c8-6825-45a6-bc9c-326a20fe48be)
