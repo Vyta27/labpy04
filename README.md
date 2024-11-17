@@ -38,7 +38,6 @@
 - inisialisasi daftar mahasiswa
   
 - Fungsihitung_nilai_akhir
-  
   - Fungsi ini digunakan untuk menghitung nilai akhir siswa berdasarkan nilai tugas, UTS, dan UAS. Nilai tugas diberi bobot 30% (0,3), UTS 35% (0,35), dan UAS 35% (0,35).
     
 -  Proses Input Data Mahasiswa
@@ -48,19 +47,16 @@
   - Nilai tugas, UTS, dan UAS konversi menjadi tipe data float
     
 - Menghitung Nilai Akhir
-  
   - Setelah nilai-nilai tugas, UTS, dan UAS dimasukkan, program akan menghitung nilai akhir dengan memanggil fungsi hitung_nilai_akhir()dan menyimpan hasil nilai_akhir.
     
 - Menyimpan Data Mahasiswa
-  
-  - Data siswa, yang terdiri dari nama, NIM, nilai tugas, nilai UTS, nilai UAS, dan nilai akhir, disimpan dalam sebuah kamus. Kemudian kamus ini dimasukkan ke dalam list         mahasiswa.
+ - Data siswa, yang terdiri dari nama, NIM, nilai tugas, nilai UTS, nilai UAS, dan nilai akhir, disimpan dalam sebuah kamus. Kemudian kamus ini dimasukkan ke dalam list         mahasiswa.
     
 -  Mengajukan Apakah Akan Menambah Data Lagi
-  
   - Setelah data pelajar dimasukkan, program akan menanyakan apakah pengguna ingin menambah data lagi. Jika pengguna memasukkan 't' (untuk tidak), program akan keluar dari       loop dan melanjutkan ke bagian berikutnya
     
 - Menampilkan Semua Data Mahasiswa
 
 # flowchart
-
+![Screenshot 2024-11-17 222114](https://github.com/user-attachments/assets/f5a93723-13b2-428e-a122-28029abbe164)
 
